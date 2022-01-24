@@ -1,25 +1,32 @@
 # Training notes for Abhishek Sinha
 
-- [ ] GitHub account
-- [ ] Installed git
-- [ ] Installed VS Code
-- Installed the following VS Code extensions:
-  - Ansible
-    - [ ] https://marketplace.visualstudio.com/items?itemName=tomaciazek.ansible
-  - Terraform
-    - [ ] https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform
-    - [ ] https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform
-  - General
-    - [ ] https://marketplace.visualstudio.com/items?itemName=jinsihou.diff-tool
-    - [ ] https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
-    - [ ] https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
-    - [ ] https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
-    - [ ] https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
-    - [ ] https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal
-  - Git/GitHub
-    - [ ] https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
-    - [ ] https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
-  - Markdown
-    - [ ] https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
-    - [ ] https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview
-    - [ ] https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint
+- [ ] GitHub account created
+- Windows:
+  - [ ] (Installed git - optional)
+  - [ ] Installed WSL2 (Ubuntu)
+  - [ ] Installed VS Code
+  - Installed the following VS Code extensions:
+    - Ansible
+      - [ ] https://marketplace.visualstudio.com/items?itemName=tomaciazek.ansible
+    - Terraform
+      - [ ] https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform
+      - [ ] https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform
+    - General
+      - [ ] https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
+      - [ ] https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
+      - [ ] https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
+      - [ ] https://marketplace.visualstudio.com/items?itemName=jinsihou.diff-tool
+      - [ ] https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
+    - Git/GitHub
+      - [ ] https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+      - [ ] https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
+    - Markdown
+      - [ ] https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+      - [ ] https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview
+      - [ ] https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint
+- WSL2 (Ubuntu)
+  - [ ] Hostkeys generated (confirm with `ls ~/.ssh` - `id_rsa` and `id_rsa.pub` should exist)
+  - [ ] Installed `sshpass` (`sshpass -V` -> no error)
+  - [ ] Installed git (`git --version` -> no error)
+  - [ ] python3 installed (`python3 --version` -> `Python 3.8.x`)
+  - [ ] Ansible installed (`ansible --version` -> no error)
