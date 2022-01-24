@@ -1,6 +1,25 @@
 # Git and GitHub
 
 - git: A source code versioning tool installed on your workstation. Available for Window and Linux.
+  - Before using for the first time, ensure your name and email are configured:
+
+    ```text
+    git config --global user.name "first_name last_name"
+    git config --global user.email "my_name@example.com"
+    ```
+
+    and confirm you can connect to GitHub over SSH with your credentials:
+
+    ```text
+    ssh -T git@github.com
+    ```
+
+    should give:
+
+    ```text
+    Hi <yourusername>! You've successfully authenticated, but GitHub does not provide shell access.
+    ```
+
 - GitHub: A hosted provider of git repositories and collaborative tooling. GitHub is owned by Microsoft.
 
 ## Git Terminology

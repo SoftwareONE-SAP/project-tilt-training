@@ -1,0 +1,25 @@
+# Training notes for Andrew Buenaventura
+
+- [ ] GitHub account
+- [ ] Installed git
+- [ ] Installed VS Code
+- Has installed the following VS Code extensions:
+  - Ansible
+    - [ ] https://marketplace.visualstudio.com/items?itemName=tomaciazek.ansible
+  - Terraform
+    - [ ] https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform
+    - [ ] https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform
+  - General
+    - [ ] https://marketplace.visualstudio.com/items?itemName=jinsihou.diff-tool
+    - [ ] https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
+    - [ ] https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
+    - [ ] https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
+    - [ ] https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
+    - [ ] https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal
+  - Git/GitHub
+    - [ ] https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
+    - [ ] https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+  - Markdown
+    - [ ] https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+    - [ ] https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview
+    - [ ] https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint
