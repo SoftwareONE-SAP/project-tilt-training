@@ -3,7 +3,7 @@
 - [ ] GitHub account
 - [ ] Installed git
 - [ ] Installed VS Code
-- Has installed the following VS Code extensions:
+- Installed the following VS Code extensions:
   - Ansible
     - [ ] https://marketplace.visualstudio.com/items?itemName=tomaciazek.ansible
   - Terraform
