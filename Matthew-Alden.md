@@ -7,26 +7,28 @@
   - [ ] Installed VS Code
   - Installed the following VS Code extensions:
     - Ansible
-      - [ ] https://marketplace.visualstudio.com/items?itemName=tomaciazek.ansible
+      - [ ] [ansible](https://marketplace.visualstudio.com/items?itemName=tomaciazek.ansible)
     - Terraform
-      - [ ] https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform
-      - [ ] https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform
+      - [ ] [ azure terraform](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform)
+      - [ ] [HashiCorp terraform](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform)
     - General
-      - [ ] https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
-      - [ ] https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
-      - [ ] https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
-      - [ ] https://marketplace.visualstudio.com/items?itemName=jinsihou.diff-tool
-      - [ ] https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
+      - [ ] [remote extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
+      - [ ] [liveshare extension pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
+      - [ ] [todo tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+      - [ ] [diff tool](https://marketplace.visualstudio.com/items?itemName=jinsihou.diff-tool)
+      - [ ] [indent rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
     - Git/GitHub
-      - [ ] https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
-      - [ ] https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
+      - [ ] [gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+      - [ ] [githistory](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
     - Markdown
-      - [ ] https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
-      - [ ] https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview
-      - [ ] https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint
+      - [ ] [markdown all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+      - [ ] [github markdown preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
+      - [ ] [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - WSL2 (Ubuntu)
-  - [ ] Hostkeys generated (confirm with `ls ~/.ssh` - `id_rsa` and `id_rsa.pub` should exist)
-  - [ ] Installed `sshpass` (`sshpass -V` -> no error)
-  - [ ] Installed git (`git --version` -> no error)
-  - [ ] python3 installed (`python3 --version` -> `Python 3.8.x`)
-  - [ ] Ansible installed (`ansible --version` -> no error)
+  - [ ] Hostkeys generated (confirm with `ls ~/.ssh`: `id_rsa` and `id_rsa.pub` should exist)
+  - [ ] `sshpass` installed
+  - [ ] `git` installed
+  - [ ] `python3` installed
+  - [ ] `ansible` installed
+  - [ ] `ansible-lint` installed
+  - [ ] `yamllint` installed

@@ -1,4 +1,4 @@
-# Training notes for Micheal Oluyoye
+# Training notes for Simon Edmunds
 
 - [ ] GitHub account created
 - Windows:
