@@ -7,4 +7,11 @@
   "files.trimTrailingWhitespace": true,
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
+  "todo-tree.general.tags": [
+    "BUG",
+    "FIXME",
+    "TODO",
+    "XXX",
+    "- [ ]"
+  ],
 }
