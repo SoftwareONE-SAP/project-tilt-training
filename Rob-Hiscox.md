@@ -1,4 +1,4 @@
-# Training notes for Rob Hiscox
+# Training record for Rob Hiscox
 
 - [ ] GitHub account created
 - Windows:

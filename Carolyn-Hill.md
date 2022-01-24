@@ -1,4 +1,4 @@
-# Training notes for Carolyn Hill
+# Training record for Carolyn Hill
 
 - [ ] GitHub account created
 - Windows:

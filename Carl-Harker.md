@@ -1,4 +1,4 @@
-# Training notes for Carl Harker
+# Training record for Carl Harker
 
 - [ ] GitHub account created
 - Windows:

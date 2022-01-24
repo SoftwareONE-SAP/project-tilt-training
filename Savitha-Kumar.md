@@ -1,4 +1,4 @@
-# Training notes for Savitha Kumar
+# Training record for Savitha Kumar
 
 - [ ] GitHub account created
 - Windows:

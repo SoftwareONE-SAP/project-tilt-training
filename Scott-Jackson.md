@@ -1,4 +1,4 @@
-# Training notes for Scott Jackson
+# Training record for Scott Jackson
 
 - [ ] GitHub account created
 - Windows:

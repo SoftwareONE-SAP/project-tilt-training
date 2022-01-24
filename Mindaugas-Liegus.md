@@ -1,4 +1,4 @@
-# Training notes for Mindaugas Liegus
+# Training record for Mindaugas Liegus
 
 - [ ] GitHub account created
 - Windows:

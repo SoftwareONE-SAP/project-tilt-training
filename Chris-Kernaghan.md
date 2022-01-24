@@ -1,4 +1,4 @@
-# Training notes for Chris Kernaghan
+# Training record for Chris Kernaghan
 
 - [ ] GitHub account created
 - Windows:

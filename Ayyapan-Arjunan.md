@@ -1,4 +1,4 @@
-# Training notes for Ayyapan Arjunan
+# Training record for Ayyapan Arjunan
 
 - [ ] GitHub account created
 - Windows:

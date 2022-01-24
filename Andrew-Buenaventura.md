@@ -1,4 +1,4 @@
-# Training notes for Andrew Buenaventura
+# Training record for Andrew Buenaventura
 
 - [ ] GitHub account created
 - Windows:

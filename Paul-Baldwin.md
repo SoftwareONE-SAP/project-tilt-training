@@ -1,4 +1,4 @@
-# Training notes for Paul Baldwin
+# Training record for Paul Baldwin
 
 - [ ] GitHub account created
 - Windows:

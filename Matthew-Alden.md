@@ -1,4 +1,4 @@
-# Training notes for Matthew Alden
+# Training record for Matthew Alden
 
 - [ ] GitHub account created
 - Windows:

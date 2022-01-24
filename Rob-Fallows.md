@@ -1,4 +1,4 @@
-# Training notes for Rob Fallows
+# Training record for Rob Fallows
 
 - [ ] GitHub account created
 - Windows:

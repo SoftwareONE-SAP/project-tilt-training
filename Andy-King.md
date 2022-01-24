@@ -1,4 +1,4 @@
-# Training notes for Andy King
+# Training record for Andy King
 
 - [ ] GitHub account created
 - Windows:

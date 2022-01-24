@@ -1,4 +1,4 @@
-# Training notes for Micheal Oluyoye
+# Training record for Micheal Oluyoye
 
 - [ ] GitHub account created
 - Windows:

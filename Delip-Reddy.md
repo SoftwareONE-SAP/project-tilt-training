@@ -1,4 +1,4 @@
-# Training notes for Delip Reddy
+# Training record for Delip Reddy
 
 - [ ] GitHub account created
 - Windows:

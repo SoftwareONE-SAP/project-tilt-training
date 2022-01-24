@@ -1,4 +1,4 @@
-# Training notes for Chris Clarke
+# Training record for Chris Clarke
 
 - [ ] GitHub account created
 - Windows:

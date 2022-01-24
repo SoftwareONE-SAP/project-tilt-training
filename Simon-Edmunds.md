@@ -1,4 +1,4 @@
-# Training notes for Simon Edmunds
+# Training record for Simon Edmunds
 
 - [ ] GitHub account created
 - Windows:

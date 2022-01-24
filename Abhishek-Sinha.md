@@ -1,4 +1,4 @@
-# Training notes for Abhishek Sinha
+# Training record for Abhishek Sinha
 
 - [ ] GitHub account created
 - Windows:
