@@ -1,4 +1,5 @@
 template
 people
-issue
+issue.md
+issue.sh
 process.sh
