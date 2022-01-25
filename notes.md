@@ -37,7 +37,7 @@
 - You will **clone** a repo from GitHub when you are allowed to write directly to that Repo.
   - `git clone some-repo-url`
   - This is the normal action within Centiq.
-- After **cloning** a repo, a new subdirectory, `.git/`, will be created at the repo root. Thus subdirectory contains configuration data indicating where the GitHub repo is located, together with branch, commit, attribution data, etc.
+- After **cloning** a repo, a new subdirectory, `.git/`, will be created at the repo root. This subdirectory contains configuration data indicating where the GitHub repo is located, together with branch, commit, attribution data, etc.
 
 ---
 
