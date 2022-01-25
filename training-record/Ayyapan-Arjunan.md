@@ -1,5 +1,7 @@
 # Training record for Ayyapan Arjunan
 
+## Inital Setup
+
 - [ ] GitHub account created
 - Windows:
   - [ ] (Installed git - optional)
@@ -9,7 +11,7 @@
     - Ansible
       - [ ] [ansible](https://marketplace.visualstudio.com/items?itemName=tomaciazek.ansible)
     - Terraform
-      - [ ] [ azure terraform](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform)
+      - [ ] [azure terraform](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform)
       - [ ] [HashiCorp terraform](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform)
     - General
       - [ ] [remote extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
@@ -19,7 +21,8 @@
       - [ ] [indent rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
     - Git/GitHub
       - [ ] [gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-      - [ ] [githistory](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+      - [ ] [git history](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+      - [ ] [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
     - Markdown
       - [ ] [markdown all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
       - [ ] [github markdown preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)

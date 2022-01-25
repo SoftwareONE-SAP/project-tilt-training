@@ -1,34 +1,37 @@
 # Training record for Rob Fallows
 
-- [x] GitHub account created
+## Inital Setup
+
+- [ ] GitHub account created
 - Windows:
-  - [x] (Installed git - optional)
-  - [x] Installed WSL2 (Ubuntu)
-  - [x] Installed VS Code
+  - [ ] (Installed git - optional)
+  - [ ] Installed WSL2 (Ubuntu)
+  - [ ] Installed VS Code
   - Installed the following VS Code extensions:
     - Ansible
-      - [x] [ansible](https://marketplace.visualstudio.com/items?itemName=tomaciazek.ansible)
+      - [ ] [ansible](https://marketplace.visualstudio.com/items?itemName=tomaciazek.ansible)
     - Terraform
-      - [x] [ azure terraform](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform)
-      - [x] [HashiCorp terraform](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform)
+      - [ ] [azure terraform](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform)
+      - [ ] [HashiCorp terraform](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform)
     - General
-      - [x] [remote extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
-      - [x] [liveshare extension pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
-      - [x] [todo tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
-      - [x] [diff tool](https://marketplace.visualstudio.com/items?itemName=jinsihou.diff-tool)
-      - [x] [indent rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+      - [ ] [remote extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
+      - [ ] [liveshare extension pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
+      - [ ] [todo tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+      - [ ] [diff tool](https://marketplace.visualstudio.com/items?itemName=jinsihou.diff-tool)
+      - [ ] [indent rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
     - Git/GitHub
-      - [x] [gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-      - [x] [githistory](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+      - [ ] [gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+      - [ ] [git history](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+      - [ ] [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
     - Markdown
-      - [x] [markdown all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-      - [x] [github markdown preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
-      - [x] [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+      - [ ] [markdown all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+      - [ ] [github markdown preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
+      - [ ] [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - WSL2 (Ubuntu)
-  - [x] Hostkeys generated (confirm with `ls ~/.ssh`: `id_rsa` and `id_rsa.pub` should exist)
-  - [x] `sshpass` installed
-  - [x] `git` installed
-  - [x] `python3` installed
-  - [x] `ansible` installed
-  - [x] `ansible-lint` installed
-  - [x] `yamllint` installed
+  - [ ] Hostkeys generated (confirm with `ls ~/.ssh`: `id_rsa` and `id_rsa.pub` should exist)
+  - [ ] `sshpass` installed
+  - [ ] `git` installed
+  - [ ] `python3` installed
+  - [ ] `ansible` installed
+  - [ ] `ansible-lint` installed
+  - [ ] `yamllint` installed
