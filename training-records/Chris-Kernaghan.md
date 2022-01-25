@@ -2,11 +2,11 @@
 
 ## Inital Setup
 
-- [ ] GitHub account created
+- [X] GitHub account created
 - Windows:
-  - [ ] (Installed git - optional)
-  - [ ] Installed WSL2 (Ubuntu)
-  - [ ] Installed VS Code
+  - [X] (Installed git - optional)
+  - [X] Installed WSL2 (Ubuntu)
+  - [X] Installed VS Code
   - Installed the following VS Code extensions:
     - Ansible
       - [ ] [ansible](https://marketplace.visualstudio.com/items?itemName=tomaciazek.ansible)
@@ -28,21 +28,21 @@
       - [ ] [github markdown preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
       - [ ] [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - WSL2 (Ubuntu)
-  - [ ] Hostkeys generated (confirm with `ls ~/.ssh`: `id_rsa` and `id_rsa.pub` should exist)
-  - [ ] `sshpass` installed
-  - [ ] `git` installed
-  - [ ] `python3` installed
-  - [ ] `ansible` installed
+  - [X] Hostkeys generated (confirm with `ls ~/.ssh`: `id_rsa` and `id_rsa.pub` should exist)
+  - [X] `sshpass` installed
+  - [X] `git` installed
+  - [X] `python3` installed
+  - [X] `ansible` installed
   - [ ] `ansible-lint` installed
   - [ ] `yamllint` installed
 
 ## Git and GitHub Fundamentals
 
-- [ ] Understand basic navigation of [this repo](https://github.com/Centiq/project-tilt-training) using browser.
+- [X] Understand basic navigation of [this repo](https://github.com/Centiq/project-tilt-training) using browser.
 - [ ] Created personal issue linked to Project Tilt using browser.
-- [ ] Cloned this repo using VS Code or the command line.
-- [ ] Opened the cloned repo with VS Code.
-- [ ] Ensured cloned repo `main` branch id up=to-date.
-- [ ] Created new branch of the form `<firstname>-<lastname>-training-record`, e.g. `bob-bobson-training-record`
-- [ ] Updated personal training record in `training-records/<firstname>-<lastname>.md`
-- [ ] Saved, staged, committed and pushed changes to GitHub.
+- [X] Cloned this repo using VS Code or the command line.
+- [X] Opened the cloned repo with VS Code.
+- [X] Ensured cloned repo `main` branch id up=to-date.
+- [X] Created new branch of the form `<firstname>-<lastname>-training-record`, e.g. `bob-bobson-training-record`
+- [X] Updated personal training record in `training-records/<firstname>-<lastname>.md`
+- [X] Saved, staged, committed and pushed changes to GitHub.
