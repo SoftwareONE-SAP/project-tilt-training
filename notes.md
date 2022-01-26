@@ -1,28 +1,36 @@
 # Git and GitHub
 
-- git: A source code versioning tool installed on your workstation. Available for Window and Linux.
-  - Before using for the first time, ensure your name and email are configured:
+## Prerequisites
 
-    ```text
-    git config --global user.name "first_name last_name"
-    git config --global user.email "my_name@example.com"
-    ```
+- You have WSL2 installed on your Windows 10 or Windows 11 workstation. (PowerShell Admin: `wsl --install`).
+  - You have generated an SSH public/private key pair. (WSL2 Ubuntu: `ssh-keygen`).
+- You have a GitHub account linked to the Centiq organisation. (To link, contact Scott Tipper)
+  - The email address associated with this account does not need to be a Centiq address.
+  - You should ensure your actual name is set in your profile so it's clear to whom the account belongs.
+  - Your WSL2 public key should be added to your GitHub account. (GitHub -> profile -> settings -> SSH & GPG keys -> add key -> copy/paste the contents of your WSL2 file `.ssh/id_rsa.pub`)
+- Your Windows network settings should be checked/corrected. Follow [doc link TBD](#prerequisites). <!-- TODO -->
+- Before using `git` for the first time, ensure your name and email are configured:
 
-    and confirm you can connect to GitHub over SSH with your credentials:
+  ```text
+  git config --global user.name "first_name last_name"
+  git config --global user.email "my_name@example.com"
+  ```
 
-    ```text
-    ssh -T git@github.com
-    ```
+  and confirm you can connect to GitHub over SSH with your credentials:
 
-    should give:
+  ```text
+  ssh -T git@github.com
+  ```
 
-    ```text
-    Hi <yourusername>! You've successfully authenticated, but GitHub does not provide shell access.
-    ```
+  should give:
 
-- GitHub: A hosted provider of git repositories and collaborative tooling. GitHub is owned by Microsoft.
+  ```text
+  Hi <yourusername>! You've successfully authenticated, but GitHub does not provide shell access.
+  ```
 
 ## Git Terminology
+
+`git`: A source code versioning tool, installed on your workstation. Available for Windows and Linux.
 
 ### Repository (Repo)
 
@@ -98,7 +106,9 @@
 
 ---
 
-## GitHub<sup>1</sup> Terminology
+## GitHub Terminology
+
+GitHub<sup>1</sup>: A hosted provider of git repositories and collaborative tooling. GitHub is owned by Microsoft.
 
 <sup>1</sup> By GitHub I really mean any hosted git repo provider: GitHub, GitLab, Bitbucket, Azure DevOps, etc.
 
