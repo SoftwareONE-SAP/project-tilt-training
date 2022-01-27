@@ -15,4 +15,8 @@
     "- [ ]"
   ],
   "files.eol": "\n",
+  "markdownlint.config": {
+    "MD013": false,         // Prevent warnings for line-length - Line length
+    "MD033": false          // Prevent warnings for no-inline-html - Inline HTML
+  }
 }

@@ -7,8 +7,9 @@
 - You have a GitHub account linked to the Centiq organisation. (To link, contact Scott Tipper)
   - The email address associated with this account does not need to be a Centiq address.
   - You should ensure your actual name is set in your profile so it's clear to whom the account belongs.
-  - Your WSL2 public key should be added to your GitHub account. (GitHub -> profile -> settings -> SSH & GPG keys -> add key -> copy/paste the contents of your WSL2 file `.ssh/id_rsa.pub`)
-- Your Windows network settings should be checked/corrected. Follow [doc link TBD](#prerequisites). <!-- TODO -->
+  - Your WSL2 public key should be added to your GitHub account. (GitHub -> profile -> settings -> SSH & GPG keys -> add key -> copy/paste the contents of your WSL2 file `.ssh/id_rsa.pub`).  For a more detailed guide see [SSH Keys and Github](ssh-notes/ssh-keys-and-github.md).
+  - If you have a password on your SSH key then you may want to use ssh-agent.  For details see [Using SSH Keys with Passwords](ssh-notes/using-ssh-keys-with-passwords.md).
+- Your Windows network settings should be checked/corrected. Follow [SSH Connection Problems](ssh-notes/ssh-connection-problems.md).
 - Before using `git` for the first time, ensure your name and email are configured:
 
   ```text

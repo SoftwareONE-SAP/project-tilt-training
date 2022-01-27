@@ -11,16 +11,18 @@ These are the elements outlined in John Gruber’s original design document. All
 ### Heading
 
 # H1
+
 ## H2
+
 ### H3
 
 ### Bold
 
-**bold text**
+Here is some **bold text**
 
 ### Italic
 
-*italicized text*
+Here is some *italicized text*
 
 ### Blockquote
 
@@ -67,7 +69,7 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 ### Fenced Code Block
 
-```
+```text
 {
   "firstName": "John",
   "lastName": "Smith",
