@@ -4,7 +4,7 @@ This repo accompanies the Project Tilt instructor-led training sessions.
 
 ## Topics
 
-[Git and Github advice](git-notes.md)
+[Git and Github](git-notes.md)
 
 [Markdown cheatsheet](markdown-cheat-sheet.md)
 
