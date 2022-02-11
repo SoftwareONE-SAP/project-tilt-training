@@ -185,7 +185,7 @@ GitHub<sup>1</sup>: A hosted provider of git repositories and collaborative tool
 ### Documentation
 
 - Documentation lives with the code.
-  - Best Practice⭐{.fragment .fade-left}
+  - Best Practice⭐
 - Traditionally written in *Markdown*.
 - Every repo should have at least a README file at its root level.
 
