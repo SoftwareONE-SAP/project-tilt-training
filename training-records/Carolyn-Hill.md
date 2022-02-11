@@ -38,10 +38,10 @@
 
 ## Git and GitHub Fundamentals
 
-- [ ] Understand basic navigation of [this repo](https://github.com/Centiq/project-tilt-training) using browser.
-- [ ] Created personal issue linked to Project Tilt using browser.
-- [ ] Cloned this repo using VS Code or the command line.
-- [ ] Opened the cloned repo with VS Code.
+- [x] Understand basic navigation of [this repo](https://github.com/Centiq/project-tilt-training) using browser.
+- [x] Created personal issue linked to Project Tilt using browser.
+- [x] Cloned this repo using VS Code or the command line.
+- [x] Opened the cloned repo with VS Code.
 - [ ] Ensured cloned repo `main` branch is up-to-date.
 - [ ] Created new branch of the form `<firstname>-<lastname>-training-record`, e.g. `bob-bobson-training-record`
 - [ ] Updated personal training record in `training-records/<firstname>-<lastname>.md`
