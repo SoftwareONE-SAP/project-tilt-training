@@ -42,7 +42,7 @@
 - [x] Created personal issue linked to Project Tilt using browser.
 - [x] Cloned this repo using VS Code or the command line.
 - [x] Opened the cloned repo with VS Code.
-- [x] Ensured cloned repo `main` branch id up=to-date.
+- [x] Ensured cloned repo `main` branch is up-to-date.
 - [x] Created new branch of the form `<firstname>-<lastname>-training-record`, e.g. `bob-bobson-training-record`
 - [x] Updated personal training record in `training-records/<firstname>-<lastname>.md`
 - [x] Saved, staged, committed and pushed changes to GitHub.
