@@ -38,7 +38,7 @@
 
 ## Git and GitHub Fundamentals
 
-- [ ] Understand basic navigation of [this repo](https://github.com/Centiq/project-tilt-training) using browser.
+- [x] Understand basic navigation of [this repo](https://github.com/Centiq/project-tilt-training) using browser.
 - [ ] Created personal issue linked to Project Tilt using browser.
 - [ ] Cloned this repo using VS Code or the command line.
 - [ ] Opened the cloned repo with VS Code.
