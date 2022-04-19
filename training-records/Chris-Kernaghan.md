@@ -9,7 +9,7 @@
   - [ ] Installed VS Code
   - Installed the following VS Code extensions:
     - Ansible
-      - [ ] [ansible](https://marketplace.visualstudio.com/items?itemName=tomaciazek.ansible)
+      - [ ] [ansible](https://marketplace.visualstudio.com/items?itemName=redhat.ansible)
     - Terraform
       - [ ] [azure terraform](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform)
       - [ ] [HashiCorp terraform](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform)
