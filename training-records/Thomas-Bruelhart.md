@@ -29,12 +29,12 @@
       - [ ] [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - WSL2 (Ubuntu)
   - [ ] Hostkeys generated (confirm with `ls ~/.ssh`: `id_rsa` and `id_rsa.pub` should exist)
-  - [ ] `sshpass` installed
-  - [ ] `git` installed
-  - [ ] `python3` installed
-  - [ ] `ansible` installed
-  - [ ] `ansible-lint` installed
-  - [ ] `yamllint` installed
+  - [ ] `sshpass` installed DONE
+  - [ ] `git` installed  DONE
+  - [ ] `python3` installed  DONE
+  - [ ] `ansible` installed  DONE
+  - [ ] `ansible-lint` installed  DONE
+  - [ ] `yamllint` installed  DONE
 
 ## Git and GitHub Fundamentals
 
